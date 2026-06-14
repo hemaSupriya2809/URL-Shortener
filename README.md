@@ -7,7 +7,7 @@ A full-stack URL Shortener application that allows authenticated users to create
 # Project Links
 
 ## GitHub Repository
-https://github.com/hemaSupriya2809
+https://github.com/hemaSupriya2809/URL-Shortener/tree/main
 
 ## Demo Video
 https://youtu.be/PTgISlrLTpI?feature=shared
